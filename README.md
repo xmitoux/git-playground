@@ -26,4 +26,4 @@ PRの例：
 マージコメントの例：
 > ## add: fooコンポーネントを追加 (#2)(PR番号)
 
-# git push --force!
+# git push --force! 2nd
